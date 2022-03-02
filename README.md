@@ -1,4 +1,4 @@
-# Infrequent-metadynamics
+# Predicting transition time using Infrequent metadynamics
 
 **First step**:
 
