@@ -53,7 +53,7 @@ Install Matlab. Go to `ks_test` folder and execute the `fileread.m` file and you
 
 Next we will plot the estimated `p-value` and `transition times` with error bars. Go to `error-analysis` folder and run `error_Nsim.m`. This will generate a file `SD_Nsim.txt`. Use `error-plt.plt` to plot the results
 
-
+![bpti-hdx](/hdx-mechanism.png)
 
 
 
