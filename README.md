@@ -51,6 +51,8 @@ I have gathered all the values from my simulation as `transition-time.xvg` and `
 
 Install Matlab. Go to `ks_test` folder and execute the `fileread.m` file and you will gnerate a CDF plot and other statistics as described here: https://pubs.acs.org/doi/10.1021/ct500040r
 
+![kst](/ks_test/cdf-pdf.eps)
+
 Next we will plot the estimated `p-value` and `transition times` with error bars. Go to `error-analysis` folder and run `error_Nsim.m`. This will generate a file `SD_Nsim.txt`. Use `error-plt.plt` to plot the results
 
 ![error](/plot_error_tyr.png )
