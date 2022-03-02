@@ -59,7 +59,7 @@ Next we will plot the estimated `p-value` and `transition times` with error bars
 
 ![error](/plot_error_tyr.png )
 
-Cite the following:
+**Cite the following:**
 
 1. Assessing the Reliability of the Dynamics Reconstructed from Metadynamics, Matteo Salvalaglio, Pratyush Tiwary, and Michele Parrinello, Journal of Chemical Theory and Computation 2014 10 (4), 1420-1425, DOI: 10.1021/ct500040r
 2. P. Tiwary and M. Parrinello, From Metadynamics to Dynamics, Phys. Rev. Lett. 111 (230602) 2013.Link: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.230602 
