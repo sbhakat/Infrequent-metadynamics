@@ -8,7 +8,7 @@ In our case we will use `\chi_1` and `\chi_2` angle of Tyrosine as CV. Our aim i
 
 The flipping is defined `-2.6 > \chi_1 > 2.6` which corresponds to the following code in the `plumed.dat`   
 
-`
+```
 COMMITTOR ...
   ARG=chi1_78
   STRIDE=100
@@ -20,7 +20,7 @@ COMMITTOR ...
   BASIN_UL2=3.14
   FILE=commit.log FMT=%8.4f
 ... COMMITTOR
-`
+```
 
 
 
