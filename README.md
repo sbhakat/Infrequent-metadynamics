@@ -22,6 +22,7 @@ COMMITTOR ...
 ... COMMITTOR
 ```
 The simulation will stop once you reach the desired basin. See the COMMITTOR syntax here: https://www.plumed.org/doc-v2.6/user-doc/html/_c_o_m_m_i_t_t_o_r.html
+see the metadynamics syntax here:https://www.plumed.org/doc-v2.6/user-doc/html/_m_e_t_a_d.html
 
 The idea is to launch multiple infrequent metadynamics simulations to ggather statistics. The simulation will produce a file called `COLVAR-tyr` whose header will look like the following
 
