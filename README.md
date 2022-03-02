@@ -6,6 +6,8 @@ Run infrequent metadynamics using the `plumed.dat` file. The basic idea of infre
 
 In our case we will use `\chi_1` and `\chi_2` angle of Tyrosine as CV. Our aim is to calculate transition time associated with **normal** to **flip** transition as shown in the following picture.
 
+![error](/normal-flip-tyr.png)
+
 The flipping is defined `-2.6 > \chi_1 > 2.6` which corresponds to the following code in the `plumed.dat`   
 
 ```
