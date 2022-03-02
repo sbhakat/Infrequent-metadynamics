@@ -49,7 +49,7 @@ One the simulations are finished you exceute `analysis.sh` script which uses `ts
 
 **Analysis**
 
-I have gathered all the values from my simulation as `transition-time.xvg` and `times.txt` inside the `ks_test` and `error-analysis` folder.
+I have gathered all the values from my simulation as `transition-time.xvg` and `times.txt` inside the `ks_test` and `error-analysis` folder respectively. `transition-time.xvg` and `times.txt` contains same values. You can rename it.
 
 Install Matlab. Go to `ks_test` folder and execute the `fileread.m` file and you will gnerate a CDF plot and other statistics as described here: https://pubs.acs.org/doi/10.1021/ct500040r
 
