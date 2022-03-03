@@ -6,7 +6,7 @@ cvfile=pd.read_csv("edt_COLVAR", sep=" ",skipinitialspace=True)
 numrow=cvfile.shape[0]
 n=0
 for i in range(0,numrow):
-         if (cvfile['t4'][i] < -1.1 and cvfile['t3'][i] > 0.5 and cvfile['t3'][i] < 1.8):
+         if (cvfile['t4'][i] < -2.6 and cvfile['t3'][i] > 0.5 and cvfile['t3'][i] < 1.8):
                   n=n+1
                   if n == 2:
                       break
